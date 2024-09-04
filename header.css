@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Times New Roman', sans-serif; /* Use the same font for consistency */
+    font-size: 50px; /* Larger font size for the title */
+    font-weight: 700; /* Bold weight for emphasis */
+    color: #017d50; /* Dark Turquoise color for the title */
+    margin-bottom: 40px; /* Space below the title */
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2); /* Slight shadow for a 3D effect */
+    letter-spacing: 2px; /* Increase letter spacing for readability */
+    
+}
